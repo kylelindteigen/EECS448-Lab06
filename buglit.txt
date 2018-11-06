@@ -1,0 +1,4 @@
+1. isEmpty for a non empty list returns true
+2. addBack method adds a value but not to the back of the list
+3. removeFront fails to remove anything at all
+4. removeBack fails to remove anything at all
